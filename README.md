@@ -5,3 +5,5 @@ A small repository for the Git exercises: the first commit, three more commits, 
 ## Run
 
 Nothing to install. Open `notes.txt`. Each line was added or edited in its own commit. The history is on `main`.
+
+The commit list is git log --oneline.
